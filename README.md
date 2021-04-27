@@ -1,4 +1,11 @@
-# pokemontypescnnweb
+# PokemonTypesCNNWeb
+
+A website for demonstrating the Convolutional Neural Network (CNN) trained for the
+[PokemonTypesCNN](https://github.com/AnTuanHa/PokemonTypesCNN) project.
+
+The static webpage is available [here](https://antuanha.github.io/PokemonTypesCNN/)
+
+![Example prediction of our trained model](screenshots/example.png)
 
 ## Project setup
 ```
